@@ -1,5 +1,7 @@
 # kalenday-e2e
 
+[![e2e](https://github.com/mssnzz/kalenday-e2e/actions/workflows/e2e.yml/badge.svg)](https://github.com/mssnzz/kalenday-e2e/actions/workflows/e2e.yml)
+
 End-to-end and smoke tests for [kalenday.com](https://kalenday.com), run with
 [Playwright](https://playwright.dev) against the deployed site.
 
